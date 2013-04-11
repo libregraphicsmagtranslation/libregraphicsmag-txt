@@ -1,7 +1,8 @@
 La entrevista
-Pierre Marchand talks Fontmatrix, responsiveness and user engagement
-by Dave Crossland
-Pull Quote: "[I]f you... us[e] Microsoft APIs to write, you're still a user. You don't own the machine. The machines own you."
+Pierre Marchand habla de Fontmatrix, su sensibilidad y compromiso hacia el usuario
+por Dave Crossland
+
+Cita tirada: "Si usas APIs de Microsoft para escribir, seguirás siendo un usuario. No controlas la máquina. La máquina te controla a ti."
 
 Pierre Marchand is the creator of Fontmatrix, the leading F/LOSS font management program.  
 
