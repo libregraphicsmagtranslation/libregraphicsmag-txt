@@ -4,7 +4,7 @@ por Dave Crossland
 
 Cita tirada: "Si usas APIs de Microsoft para escribir, seguirás siendo un usuario. No controlas la máquina. La máquina te controla a ti."
 
-Pierre Marchand is the creator of Fontmatrix, the leading F/LOSS font management program.  
+Pierre Marchand es el creador de Fontmatrix, el programa líder para gestión de tipografías de software libre.
 
 D: You were working as a graphic designer [when you started working on Fontmatrix].
 P: I pretended to be a graphic designer. But I wasn't really a graphic designer. I started because I had this little, little, little agency and no clients. So I started to play a bit with programming. There was this program to compose text by hand. And there was, in this program, a font chooser. You could choose a font file and it was not enough for me. So I was looking for a font manager, didn't find one. Because I was working a lot with FreeType it was quite trivial for me to just have something to display fonts. All in all, it was really for my own needs. 
