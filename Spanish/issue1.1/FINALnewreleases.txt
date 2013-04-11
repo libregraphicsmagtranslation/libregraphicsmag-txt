@@ -1,9 +1,9 @@
-new releases
+Nuevas liberaciones
 
-Sozi (http://sozi.baierouge.fr/wiki/doku.php): An SVG based presentation program, allowing users to create on a movable canvas. Say goodbye to slides.
-Blender 2.55 beta (http://www.blender.org/development/release-logs/blender-254-beta/): A major new release of Blender. Road tested on production of //Sintel//.
-Inkscape 0.48 Essentials for Web Designers (book) (https://www.packtpub.com/inkscape-0-48-essentials-for-web-designers/book): An overview of Inkscape 0.48, geared specifically towards the needs of web designers. 
-Sintel (http://www.sintel.org/): Another year, another Blender Foundation project. //Sintel// is a short film showing Blender at its best and most beautiful.
-SparkleShare 0.2 Beta 1 (http://www.bomahy.nl/hylke/blog/sparkleshare-02-beta-1-for-linux/): Makes version control painless. Allows for folder based workflow, but with the added power of full-on version control.
-Hugin 2010.2.0 (http://hugin.sourceforge.net/releases/2010.2.0/en.shtml): Hugin, our favourite panorma stitching program, has a pack of new features, including masking and a mosaic mode.
+Sozi (http://sozi.baierouge.fr/wiki/doku.php): Un programa de presentaciones basado en SVG, que permite a los usuarios crear un lienzo en movimiento. Deciel adiós a las diapositivas.
+Blender 2.55 beta (http://www.blender.org/development/release-logs/blender-254-beta/): Un nuevo y significativo lanzamiento de Blender. Probado en la producción de //Sintel//.
+Inkscape 0.48 Essentials for Web Designers (book) (https://www.packtpub.com/inkscape-0-48-essentials-for-web-designers/book): Una mirada general sobre Inkscape 0.48, orientada específicamente hacia las necesidades de los diseñadores web. 
+Sintel (http://www.sintel.org/): Otro año, otro proyecto de la Blender Foundation. //Sintel// es un corto mostrando Blender a su máximo y mas bello potencial.
+SparkleShare 0.2 Beta 1 (http://www.bomahy.nl/hylke/blog/sparkleshare-02-beta-1-for-linux/): Hace el control de versiones mas sencillo. Pemite dinámicas de trabajo basadas en carpetas, pero con el poder añadido de tener control de versiones completo.
+Hugin 2010.2.0 (http://hugin.sourceforge.net/releases/2010.2.0/en.shtml): Hugin, nuestro programa favorito para componer panoramas, tiene un nuevo grupo de funciones, incluyendo máscaras y modo mosaico.
 
