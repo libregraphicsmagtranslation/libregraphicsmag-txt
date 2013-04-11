@@ -1,14 +1,21 @@
 Schrijver
 
-The voice of the shell—in collaboration with my computer
+%The voice of the shell—in collaboration with my computer
+Konversationen
 
 Eric Schrijver
 
-I tell my students that the command line is the way to go. I am not, however, the kind of person who thinks the command-line is somehow a more true experience—it’s another modality, another way of accessing and manipulating the data on your machine.
+%I tell my students that the command line is the way to go. I am not, however, the kind of person who thinks the command-line is somehow a more true experience—it’s another modality, another way of accessing and manipulating the data on your machine.
 
-The query-response format is wonderful. I amaze students with the whoami command—the computer knows the answer! This gives the impression, to some, that it is possible, through the console, to have a conversation with the computer.
+Meinen Studenten sage ich dass die Kommandozeile die richtige Wahl ist. Allerdings bin ich selbst kein Anhänger der Idee dass die Kommandozeile einen besseren Einblick in die Maschine garantiert. Die Kommandozeile ist lediglich ein anderer Zugang, eine andere Art und Weise auf Daten zuzugreifen und sie zu bearbeiten.
 
-I do often feel like I am talking to the computer. But when the computer talks back to me, from time to time the voice of the computer gives way to the voice of the programmer; or at least, to my image of this programmer. This is the output of a 7zip command:
+%The query-response format is wonderful. I amaze students with the whoami command—the computer knows the answer! This gives the impression, to some, that it is possible, through the console, to have a conversation with the computer.
+
+Das Frage/Antwort Format ist wundervoll. Ich verblüffe meine Studenten gern mit dem whoami Kommando. Der Computer hat eine Antwort. Man hat den Eindruck dass es über die Konsole möglich ist sich mit dem Computer zu unterhalten.
+
+%I do often feel like I am talking to the computer. But when the computer talks back to me, from time to time the voice of the computer gives way to the voice of the programmer; or at least, to my image of this programmer. This is the output of a 7zip command:
+
+Ich habe oft das Gefühl tatsächlich mit dem Computer sprechen. Wenn dieser dann tatsächlich antwortet, wird aus der Antwort des Computers die Antwort des Entwicklers. Oder zumindestens zu meiner Vorstellung von diesem Entwickler. Hier ist die Ausgabe von 7zip:
 
 7-Zip  4.44 beta  Copyright © 1999-2007 Igor Pavlov  2007-01-20
 p7zip Version 4.44 (locale=nl_NL.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
@@ -25,19 +32,30 @@ Extracting  Fedora 9/Fedora 9.vmsd
 Extracting  Fedora 9/Fedora 9.vmx.lck
 Extracting  Fedora 9
 
-Everything is Ok
+Everything is OK
 
-I am moved by the program telling me that everything is okay. I am not sure if Igor Pavlov meant to give me consolation from the console—after all, the sentence is logically equivalent to "there are no errors." It could be a simple observation.
+%I am moved by the program telling me that everything is okay. I am not sure if Igor Pavlov meant to give me consolation from the console—after all, the sentence is logically equivalent to "there are no errors." It could be a simple observation.
 
-In any case, it’s endearing: I imagine the programmer as a pretty, dark-haired boy. He is shy and his eyes, hiding already behind large glasses, avoid your gaze. Igor is not so handy with words, but he means well towards the world. 
+Es berührt mich dass das Programm mir sagt: 'Everything is OK', alles wird gut. Ich bin nicht sicher, ob Igor Pavlov mich so beruhigen will. Die Ausgabe ist letztendlich gleichbedeutend mit "there are no errors", Ausführung fehlerfrei, eine nüchterne Information.
 
-The encounter is not always so nice. The reason I install Fedora is because I have to compile some Perl modules and put them on my shared hosting service to make Movable Type work. The interactive mode of CPAN has the most condescending error messages yet.
+%In any case, it’s endearing: I imagine the programmer as a pretty, dark-haired boy. He is shy and his eyes, hiding already behind large glasses, avoid your gaze. Igor is not so handy with words, but he means well towards the world. 
 
-But nothing beats Telnet. When typing in "RCPT:" instead of the required "RCPT TO:," I get:
+So oder so, ist es zärtlich: Wenn ich mir den Entwickler vorstelle, sehe ich einen hübschen, dunkelhaarigen Jungen. Er ist schüchtern und er vermeidet Blickkontakt, versteckt seine Augen hinter dicken Brillengläsern. Igor kann nicht so gut mit Worten, aber er meint es gut mit der Welt.
+
+%The encounter is not always so nice. The reason I install Fedora is because I have to compile some Perl modules and put them on my shared hosting service to make Movable Type work. The interactive mode of CPAN has the most condescending error messages yet.
+
+Die Begegnungen sind nicht immer entsprechend angenehm. Ich installiere Fedora um einige Perl Module kompilieren um Movable Type auf einem gemeinsamen Server zum Laufen zu bringen. CPAN hatte bis jetzt die herablassendsten Fehlermeldungen.
+
+%But nothing beats Telnet. When typing in "RCPT:" instead of the required "RCPT TO:," I get:
+
+Immer noch harmlos im Vergleich zu Telnet. Wenn man anstatt von "RCPT:" "RCPT TO:," eingibt, kommt die prompte Antwort:
 
 Error: I can break rules, too. Goodbye.
 
-And my connection is closed. I feel like I could actually strangle the programmer responsible for this behaviour. The rude message is a catalyst for my negative passions. I imagine the programmer delighting in his sense of control over me and I want to smash the keyboard on his head.
+%And my connection is closed. I feel like I could actually strangle the programmer responsible for this behaviour. The rude message is a catalyst for my negative passions. I imagine the programmer delighting in his sense of control over me and I want to smash the keyboard on his head.
+
+Und damit ist das Gespräch beendet. In dem Moment könnte ich den Entwickler erwürgen.
+
 
 I project in my mind this monster: crouched behind his computer, staring intently at the screen, a system administrator, overweight and with unkempt hair, staring maniacally at the screen, laughing out loud about this error message that is going to upset the people using his code. But I have been awake too long. I made him in my own image. Look at me: I’m also alone, staring maniacally at the screen, making up these stories about computer programmers.
 
