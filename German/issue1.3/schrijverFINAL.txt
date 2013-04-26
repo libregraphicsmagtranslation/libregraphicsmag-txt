@@ -7,7 +7,7 @@ Eric Schrijver
 
 %I tell my students that the command line is the way to go. I am not, however, the kind of person who thinks the command-line is somehow a more true experience—it’s another modality, another way of accessing and manipulating the data on your machine.
 
-Meinen Studenten erkläre ich gern, dass die Kommandozeile die richtige Wahl ist. Ich selbst bin allerdings kein Verfechter der Idee, dass die Kommandozeile näher an einer wie auch immer gearteten Wahrheit der Maschine sei. Die Kommandozeile ist lediglich ein anderer Zugang, eine andere Art und Weise auf Daten zuzugreifen und sie zu bearbeiten.
+Meinen Studenten erkläre ich gern, dass die Kommandozeile die richtige Wahl ist. Ich selbst bin allerdings kein Verfechter der Idee, dass die Kommandozeile näher an einer, wie auch immer gearteten, Wahrheit der Maschine sei. Die Kommandozeile ist lediglich ein anderer Zugang, eine andere Art und Weise auf Daten zuzugreifen und sie zu bearbeiten.
 
 %The query-response format is wonderful. I amaze students with the whoami command—the computer knows the answer! This gives the impression, to some, that it is possible, through the console, to have a conversation with the computer.
 
