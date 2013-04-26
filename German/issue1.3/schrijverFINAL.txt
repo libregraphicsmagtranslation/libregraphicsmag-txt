@@ -11,11 +11,11 @@ Meinen Studenten erkläre ich gern, dass die Kommandozeile die richtige Wahl ist
 
 %The query-response format is wonderful. I amaze students with the whoami command—the computer knows the answer! This gives the impression, to some, that it is possible, through the console, to have a conversation with the computer.
 
-Das Frage/Antwort Format ist wundervoll. Ich verblüffe meine Studenten gern mit dem whoami Kommando. Der Computer hat eine Antwort. Man hat den Eindruck dass es über die Konsole möglich ist sich mit dem Computer zu unterhalten.
+Ich verblüffe meine Studenten gern mit dem `whoami` Kommando: Der Computer hat nämlich eine Antwort. Man gewinnt den Eindruck, dass es tatsächlich möglich ist sich über die Konsole mit dem Computer zu unterhalten.
 
 %I do often feel like I am talking to the computer. But when the computer talks back to me, from time to time the voice of the computer gives way to the voice of the programmer; or at least, to my image of this programmer. This is the output of a 7zip command:
 
-Ich habe oft das Gefühl tatsächlich mit dem Computer sprechen. Wenn dieser dann tatsächlich antwortet, wird aus der Antwort des Computers die Antwort des Entwicklers. Oder zumindestens zu meiner Vorstellung von diesem Entwickler. Hier ist die Ausgabe von 7zip:
+Ich habe oft das Gefühl mit meinem Computer sprechen. Manchmal, wenn dieser dann antwortet, wird die Stimme des Computers zu der des Entwicklers. Oder zumindestens zu meiner Vorstellung von diesem Entwickler. Hier ist die Ausgabe von `7zip`:
 
 7-Zip  4.44 beta  Copyright © 1999-2007 Igor Pavlov  2007-01-20
 p7zip Version 4.44 (locale=nl_NL.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
