@@ -7,11 +7,11 @@ Eric Schrijver
 
 %I tell my students that the command line is the way to go. I am not, however, the kind of person who thinks the command-line is somehow a more true experience—it’s another modality, another way of accessing and manipulating the data on your machine.
 
-Meinen Studenten erkläre ich gern, dass die Kommandozeile die richtige Wahl ist. Ich selbst bin allerdings kein Verfechter der Idee, dass die Kommandozeile näher an einer, wie auch immer gearteten, Wahrheit der Maschine sei. Die Kommandozeile ist lediglich ein anderer Zugang, eine andere Art und Weise auf Daten zuzugreifen und sie zu bearbeiten.
+Meinen Studenten erkläre ich gerne, dass die Kommandozeile die richtige Wahl sei. Ich selbst bin allerdings kein Verfechter der Idee, dass die Kommandozeile näher an einer, wie auch immer gearteten, Wahrheit der Maschine sei. Die Kommandozeile ist lediglich ein anderer Zugang, eine andere Art und Weise auf Daten zuzugreifen und sie zu bearbeiten.
 
 %The query-response format is wonderful. I amaze students with the whoami command—the computer knows the answer! This gives the impression, to some, that it is possible, through the console, to have a conversation with the computer.
 
-Ich verblüffe meine Studenten gern mit dem `whoami` Kommando: Der Computer hat nämlich eine Antwort. Man gewinnt den Eindruck, dass es tatsächlich möglich ist sich über die Konsole mit dem Computer zu unterhalten.
+Ich verblüffe meine Studenten gern mit dem `whoami` Kommando: Der Computer hat nämlich eine Antwort. Man gewinnt so den Eindruck, dass es tatsächlich möglich ist sich über die Konsole mit dem Computer zu unterhalten.
 
 %I do often feel like I am talking to the computer. But when the computer talks back to me, from time to time the voice of the computer gives way to the voice of the programmer; or at least, to my image of this programmer. This is the output of a 7zip command:
 
@@ -36,15 +36,15 @@ Everything is OK
 
 %I am moved by the program telling me that everything is okay. I am not sure if Igor Pavlov meant to give me consolation from the console—after all, the sentence is logically equivalent to "there are no errors." It could be a simple observation.
 
-Es berührt mich dass das Programm mir sagt: 'Everything is OK', alles wird gut. Ich bin nicht sicher, ob Igor Pavlov mich so beruhigen will. Die Ausgabe ist letztendlich gleichbedeutend mit "there are no errors", Ausführung fehlerfrei, eine nüchterne Information.
+Es berührt mich, dass das Programm mir mitteilt: 'Everything is OK', alles wird gut. Ich bin nicht sicher, ob Igor Pavlov mich so beruhigen will. Letztendlich ist die Ausgabe gleichbedeutend mit "there are no errors", Ausführung fehlerfrei, eigentlich eine nüchterne Information.
 
 %In any case, it’s endearing: I imagine the programmer as a pretty, dark-haired boy. He is shy and his eyes, hiding already behind large glasses, avoid your gaze. Igor is not so handy with words, but he means well towards the world. 
 
-So oder so, ist es zärtlich: Wenn ich mir den Entwickler vorstelle, sehe ich einen hübschen, dunkelhaarigen Jungen. Er ist schüchtern und er vermeidet Blickkontakt, versteckt seine Augen hinter dicken Brillengläsern. Igor kann nicht so gut mit Worten, aber er meint es gut mit der Welt.
+So oder so, ist es liebenswert: Wenn ich mir den Entwickler vorstelle, sehe ich einen hübschen, dunkelhaarigen Jungen. Er ist schüchtern und er vermeidet Blickkontakt, versteckt seine Augen hinter dicken Brillengläsern. Igor kann nicht so gut mit Worten, aber er meint es gut mit der Welt.
 
 %The encounter is not always so nice. The reason I install Fedora is because I have to compile some Perl modules and put them on my shared hosting service to make Movable Type work. The interactive mode of CPAN has the most condescending error messages yet.
 
-Die Begegnungen sind nicht immer entsprechend angenehm. Ich installiere Fedora um einige Perl Module kompilieren um Movable Type auf einem gemeinsamen Server zum Laufen zu bringen. CPAN hatte bis jetzt die herablassendsten Fehlermeldungen.
+Die Begegnungen sind nicht immer entsprechend angenehm. Ich installiere Fedora um einige Perl Module kompilieren zu können und Movable Type auf einem gemeinsamen Server zum Laufen zu bringen. CPAN hatte bis jetzt die herablassendsten Fehlermeldungen.
 
 %But nothing beats Telnet. When typing in "RCPT:" instead of the required "RCPT TO:," I get:
 
